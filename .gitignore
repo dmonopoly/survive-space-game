@@ -1,0 +1,9 @@
+*.app
+*.app/*
+*.pro
+*.pro/*
+*.settings
+*.settings/*
+*.project
+*.cproject
+Debug/*

@@ -16,6 +16,8 @@
 
 #include <QPainter>
 #include <QFont>
+#include <QColor>
+#include <QPoint>
 
 // Important variables that determine width and height of game window
 const int WIDTH = 900;

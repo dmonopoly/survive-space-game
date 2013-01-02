@@ -13,4 +13,4 @@ make
 ./survive-space-game
 </pre>
 
- For the last command, just put ./{name of application compiled to} which is typically the folder name.
+For the last command, just put ./{name of application compiled to} which is typically the folder name.
